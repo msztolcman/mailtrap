@@ -1,5 +1,10 @@
+MailTrap has been renamed to [Sendria](https://github.com/msztolcman/sendria).
+==============================================================================
+
+Please use Sendria now, MailTrap is abandoned.
+
 Sendria
-==========
+=======
 
 [![sendria version](https://img.shields.io/pypi/v/sendria.svg)](https://pypi.python.org/pypi/sendria)
 [![sendria license](https://img.shields.io/pypi/l/sendria.svg)](https://pypi.python.org/pypi/sendria)
